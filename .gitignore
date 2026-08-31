@@ -1,5 +1,5 @@
 experience.md
 
 .vscode
-.aux
-.log
+*.aux
+*.log
