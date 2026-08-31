@@ -1,2 +1,2 @@
-# resume
-my latex resume
+# Resume
+My latex resumes
